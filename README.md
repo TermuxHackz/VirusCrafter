@@ -14,6 +14,6 @@ Create virus app for android using termux
 
 > cd VirusCrafter 
 
-> python2 VirusCrafter.py
+> python2 VirusCrafter.py or python2 ViruzCrafter.py
 
-* Happy creation of virus app for android *
+* Happy creation of virus app for android 
